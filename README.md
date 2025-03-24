@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de programação.<br>🤝 Estou a procura de uma oportunidade de emprego.<br>⚡ Curso de analise e Desenvolvimento de sistemas no Senai/BA concluído.
+🔭 Sou um programador.<br>🤝 Estou a procura de uma oportunidade de emprego.<br>⚡ Curso de analise e Desenvolvimento de sistemas no Senai/BA concluído.
 
 
 ## 🌐 Socials:
